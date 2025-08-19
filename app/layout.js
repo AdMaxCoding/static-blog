@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
 
   let footer = (
     <footer>
-      <p>check out the repo on <a href="">GitHub</a></p>
+      <p>check out the repo on <a href="https://github.com/AdMaxCoding/static-blog">GitHub</a></p>
     </footer>
   )
   return (
